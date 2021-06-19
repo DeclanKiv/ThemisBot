@@ -1,0 +1,2 @@
+# ThemisBot
+Discord moderation bot
